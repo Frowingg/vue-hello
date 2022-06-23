@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 50px;
+}
+body *{
+    margin: 20px;
+}
+.red_color{
+    color: red;
+}
+.yellow_color{
+    color: yellow;
+}
